@@ -29,7 +29,7 @@ To perform analysis, [three datasets](https://github.com/data-bootcamp-v4/lesson
 - Main Notebook 'PROJECT_EDA' for preparation of data and generation of a CSV for Statistical Analysis and Tableau Visualisation
 - Python File "Functions" that store the different functions used in the main Notebook
 - Other Notebooks Python for customer analysis & Statistical Analysis
-- Tableau workbook []
-- 
+- Tableau workbook [link](https://public.tableau.com/views/Week4_5_EDA_Project/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link)
+  
 ### Authors:
 Beata & Pierre
