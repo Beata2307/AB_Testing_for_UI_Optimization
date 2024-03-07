@@ -19,12 +19,17 @@ To perform analysis, [three datasets](https://github.com/data-bootcamp-v4/lesson
 2. **Digital Footprints (df_final_web_data)**: A detailed trace of client interactions online, divided into two parts: pt_1 and pt_2. 
 3. **Experiment Roster (df_final_experiment_clients)**: A list revealing which clients were part of test and contro groups.
 
+## Tasks Performed
+1. **Exploratory Data Analysis (EDA) & Data Cleaning**:  Explored and cleaned the dataset to prepare it for analysis.
+2. **Client behavior analysis**: Examined customer information to understand who the primary clients are using this online process.
+3. **Key performance indicators (KPIs)**:  Defined relevant KPIs to determine the success of the new design.
+4. **Hypothesis Testing**: Conducted hypothesis testing to validate assumptions and draw conclusions.
 
-Performed data cleaning and analysis on online user activity data.
-Defined key performance indicators (KPIs) for relative measurements.
-Conducted A/B testing to evaluate UI performance by comparing test and control groups using new and old versions.
-
-Would these changes encourage more clients to complete the process? Did the new UI lead to higher completion rates?
-
-Authors:
+## Files
+- Main Notebook 'PROJECT_EDA' for preparation of data and generation of a CSV for Statistical Analysis and Tableau Visualisation
+- Python File "Functions" that store the different functions used in the main Notebook
+- Other Notebooks Python for customer analysis & Statistical Analysis
+- Tableau workbook []
+- 
+### Authors:
 Beata & Pierre
