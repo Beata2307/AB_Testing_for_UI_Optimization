@@ -24,12 +24,9 @@ To perform analysis, [three datasets](https://github.com/data-bootcamp-v4/lesson
 2. **Client behavior analysis**: Examined customer information to understand who the primary clients are using this online process.
 3. **Key performance indicators (KPIs)**:  Defined relevant KPIs to determine the success of the new design.
 4. **Hypothesis Testing**: Conducted hypothesis testing to validate assumptions and draw conclusions.
+5. **Tableau Visualisation**: [link](https://public.tableau.com/views/Week4_5_EDA_Project/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link)
+   
+For more details on data cleaning, analysis, and the results of the A/B test, please refer to the [presentation](https://github.com/Beata2307/AB_Testing_for_UI_Optimization/blob/main/AB_Testing_for_UI_Optimization.pdf).
 
-## Files
-- Main Notebook 'PROJECT_EDA' for preparation of data and generation of a CSV for Statistical Analysis and Tableau Visualisation
-- Python File "Functions" that store the different functions used in the main Notebook
-- Other Notebooks Python for customer analysis & Statistical Analysis
-- Tableau workbook [link](https://public.tableau.com/views/Week4_5_EDA_Project/Dashboard1?:language=fr-FR&publish=yes&:display_count=n&:origin=viz_share_link)
-  
-### Authors:
+### Authors
 Beata & Pierre
